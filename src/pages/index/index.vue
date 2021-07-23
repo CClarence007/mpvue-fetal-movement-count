@@ -77,7 +77,7 @@ export default {
 .description>.description-content {
   font-family: '华文细黑';
   font-weight: normal;
-  font-size: 0.38rem;
+  font-size: 0.39rem;
   opacity: 0.9;
 }
 .control {
