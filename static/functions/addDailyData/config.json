@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "openapi": [
+    ]
+  },
+  "triggers": [
+    {
+      "name": "addDailyDataTrigger",
+      "type": "timer",
+      "config": "0 59 23 1/1 *"
+    }
+  ]
+}
